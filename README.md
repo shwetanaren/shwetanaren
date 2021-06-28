@@ -4,7 +4,7 @@ My journey into coding/programming began since after diving into building fun pr
 
 At this point in time in my coding journey I'm building out projects across the below programming languages / tools. 
 
-- :fire: Python Programming
+- Python Programming
 - 
 
 
