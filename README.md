@@ -2,12 +2,11 @@
 
 My journey into coding/programming began since after diving into building fun projects using 'scratch programming'with my 7 yo old son. This after wearing multiple roles as a UX consultant and GRC/Fraud consultant to managing a customer communication for 10 M+ users.
 
-At this point in time in my coding journey I'm building out projects across the below programming languages / tools. 
+At this point in time I'm building out projects across the below programming languages / tools. 
 
 - Python Programming
-- 
-
-
+- JAMStack technologies
+- Web3 & Blockchain from an data analysis standpoint.
 
 
 <!--
