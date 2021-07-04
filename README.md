@@ -5,7 +5,7 @@ My journey into coding/programming began since diving into building fun projects
 At this point in time I'm building out projects across the below programming languages / tools. 
 
 - Python Programming
-- 🌱 Currently learning Blockchain data analysis.
+- Currently learning Blockchain data analysis.
 - JAMStack technologies
 
 - 💬 Ask me about how to make better decisions with data and design thinking
