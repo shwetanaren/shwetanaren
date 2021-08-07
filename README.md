@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Shweta
 
-My journey into coding/programming started with C and C++ a decade ago and recently got back into building fun projects using 'scratch programming' with my 7 yo old son and shifted gears to pivot to python and JS. 
+My journey into coding/programming started with C and C++ a decade ago and recently got to build fun projects using 'scratch programming' with my 7 yo old son and I shifted gears to pivot to python and JS programming. 
 
 At this point in time I'm enjoying building out projects across the below programming languages / tools. 
 
