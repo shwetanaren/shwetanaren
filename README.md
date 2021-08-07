@@ -1,13 +1,13 @@
 ### Hi 👋 I'm Shweta
 
-My journey into coding/programming began since diving into building fun projects using 'scratch programming' with my 7 yo old son. This after wearing multiple roles as a UX consultant and GRC/Fraud consultant to managing a customer communication for 10 M+ users.
+My journey into coding/programming started with C and C++ a decade ago and recently got back into building fun projects using 'scratch programming' with my 7 yo old son. This after wearing multiple roles as a UX / IA consultant and GRC/Fraud consultant to managing a customer communication for 10 M+ users.
 
 At this point in time I'm building out projects across the below programming languages / tools. 
 
-- Python Programming & Data Science Technologies
+- Python Programming & Data Science technologies
 - JAMStack technologies
 
-💬 Ask me about how to make better decisions with data and design thinking
+💬 Ask me about how to make better decisions with data and design.
 
 
 <!--
