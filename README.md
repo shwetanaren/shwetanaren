@@ -1,13 +1,12 @@
 ### Hi 👋 I'm Shweta
 
-My journey into coding/programming started with C and C++ a decade ago and recently got to build fun projects using 'scratch programming' with my 7 yo old son and I shifted gears to pivot to python and JS programming. 
-
-At this point in time I'm enjoying building out projects across the below programming languages / tools. 
+Currently, expanding my design and engineering skillset by building out projects across the below programming languages / tools. 
 
 - Python Programming & Data Science technologies
 - JAMStack technologies
+- Cloud Technologies
 
-💬 You can ask me about how to make better decisions with data and design.
+💬 You can ask me about how to bring your ideas to market.
 
 
 <!--
