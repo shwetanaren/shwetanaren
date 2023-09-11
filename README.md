@@ -1,10 +1,11 @@
 ### Hi 👋 I'm Shweta
 
-Currently, expanding my design and engineering skillset by building out projects across the below programming languages / tools. 
+Building projects across the below programming languages / tools. 
 
 - Python Programming & Data Science technologies
 - JAMStack technologies
 - Cloud Technologies
+- Generative AI tech
 
 💬 You can ask me about how to bring your ideas to market.
 
