@@ -1,6 +1,6 @@
 ### Hi there 👋 I’m Shweta
 
-🔒 Currently a Full‑Stack Cybersecurity Trainee at **Cyberella (NL)** — specializing in DevSecOps, GRC, and Application Security  
+🔒 Currently a Full‑Stack Cybersecurity Trainee at Cyberella (NL) — specializing in DevSecOps, GRC, and Application Security  
 💼 Former Big‑4 consultant focused on Governance, Risk & Compliance (GRC) engagements and forensic investigations  
 🐍 Hands‑on with Python for Data Science, automation, and data product management.
 ⚛️ Building modern JAMstack web apps (React, Next.js), Webflow, Framer and deploying on AWS  
