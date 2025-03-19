@@ -1,18 +1,17 @@
-### Hi 👋 I'm Shweta
+### Hi there 👋 I’m Shweta
 
-Building projects across the below programming languages / tools. 
+🔒 Currently a Full‑Stack Cybersecurity Trainee at **Cyberella (NL)** — specializing in DevSecOps, GRC, and Application Security  
+💼 Former Big‑4 consultant focused on Governance, Risk & Compliance and forensic investigations  
+🐍 Hands‑on with Python for Data Science, automation, and security scripting  
+⚛️ Building modern JAMstack web apps (React, Next.js), Webflow, Framer and deploying on AWS  
+🤖 Passionate about the ethical use of Generative AI and human‑centered design  
+⚡ Published author: “[Of Neuroscience, Perspectives, and Design Thinking](http://bit.ly/dtandnp)” — featured on IDEO’s learning platform  
 
-- Python Programming & Data Science technologies
-- JAMStack technologies
-- Cloud Technologies
-- Generative AI tech
-
-💬 You can ask me about how to bring your ideas to market.
 
 
 <!--
 **shwetanaren/shwetanaren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/your-profile) | 📧 your.email@example.com
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working to 
