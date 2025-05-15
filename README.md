@@ -4,7 +4,7 @@
 💼 Former Big‑4 consultant focused on Governance, Risk & Compliance (GRC) engagements and forensic investigations  
 🐍 Hands‑on with Python for Data Science, automation, and data product management.
 ⚛️ Building modern JAMstack web apps (React, Next.js), Webflow, Framer and deploying on AWS  
-🤖 Passionate about the ethical use of Generative AI and human‑centered design  
+🤖 Passionate about stronger Governance in Digital Systems & Apps  
 ⚡ Published author: “[Of Neuroscience, Perspectives, and Design Thinking](http://bit.ly/dtandnp)” — featured on IDEO’s learning platform  
 
 
